@@ -3,10 +3,18 @@
 ## Description
 
 🔍 an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+![web-url]
   
 💻 Below is a video of the application:
   
 ![social-network-api](./assets/users.gif)
+
+
+* Video Walkthrough Part 1: [https://youtu.be/p3Jd5DOIY94](https://youtu.be/p3Jd5DOIY94)
+* Video Walkthrough Part 2: [https://youtu.be/PzaE6RNE_aw](https://youtu.be/PzaE6RNE_aw)
+
+![screenshot of application](./screenshot.png)
+
 
 ## User Story
 
@@ -63,7 +71,9 @@ With Nodemon:
 No current testing
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:octocat: [James Chukwu](https://github.com/Okingiboy/social-network-api-mongoose-express-js-james)
+
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+Questions about this repository? Please contact me at [okoriechukwu@yahoo.com](mailto:okoriechukwu@yahoo.com). View more of my work in GitHub at [okingiboy](https://github.com/okingiboy) 
+

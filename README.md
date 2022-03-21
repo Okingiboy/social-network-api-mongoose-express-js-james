@@ -65,7 +65,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 With Nodemon:
 
-`npm run watch`
+`node server.js`
 
 ## Contributor
 💻

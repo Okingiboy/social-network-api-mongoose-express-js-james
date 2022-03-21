@@ -13,9 +13,8 @@ An API for a social network web application where users can share their thoughts
 ![screenshot of application](./screenshot.png)
 
 
-* Video Walkthrough Part 1: [https://youtu.be/p3Jd5DOIY94](https://youtu.be/p3Jd5DOIY94)
-* Video Walkthrough Part 2: [https://youtu.be/PzaE6RNE_aw](https://youtu.be/PzaE6RNE_aw)
-
+ 
+ 
 💾 
 
 

@@ -9,6 +9,7 @@ An API for a social network web application where users can share their thoughts
 
 ## Video Demo
 
+![see video here](https://us02web.zoom.us/recording/detail?meeting_id=iBKbG9H4STWawtvxnbmhJw%3D%3D&zak=eyJ0eXAiOiJKV1QiLCJzdiI6IjAwMDAwMiIsInptX3NrbSI6InptX28ybSIsImFsZyI6IkhTMjU2In0.eyJhdWQiOiJjbGllbnQiLCJ1aWQiOiJ0NnFha1c0TVNKdUFqdEFtejFvNEZBIiwiaXNzIjoid2ViIiwic2siOiIxNjAyNDcxMDIxMTg1NDIwODk2Iiwic3R5IjoxMDAsIndjZCI6InVzMDIiLCJjbHQiOjAsImV4cCI6MTY0ODMxOTczNiwiaWF0IjoxNjQ4MzEyNTM2LCJhaWQiOiJuaGw5WVNHWlJNMjIwdlBkR1lBXzNnIiwiY2lkIjoiRkNjT2tSYm8zT3lpdGJ5QWt3aS9neFpKUmIyOU5xSmFyQ2NKMFF0UVJXWT0ifQ.RSTboij-GHu-XBQBdnSeyjTnGaYZtNGHgbCaPu_xvZ8)
 
 ![screenshot of application](./screenshot.png)
 

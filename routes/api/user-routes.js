@@ -13,9 +13,11 @@ const {
   } = require('../../controllers/users-controller');
 
 // -- Directs to: /api/users <GET, POST>
+// http://localhost:3001/api/users/
 router.route('/').get(getAllUsers).post(createUsers);
 
 // -- Directs to: /api/users/:id <GET, PUT, DELETE>
+// http://localhost:3001/api/users/real-id
 router.route('/:id').get(getUsersById).put(updateUsers).delete(deleteUsers);
 
 // -- Directs to: /api/users/:userId/friends/:friendId <POST, DELETE>
